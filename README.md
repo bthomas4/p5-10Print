@@ -1,1 +1,1 @@
-# p5-10Print
+A single line of code: 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 -- used in a Commodore 64 Basic can generate an incredible maze art. This is a simulation of this effect effect in p5.js. Inspired by Daniel Shiffman (The Coding Train) coding challenge.
